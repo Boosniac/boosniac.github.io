@@ -26,6 +26,6 @@ export default defineConfig({
   vite: {
     plugins: [tailwindcss()]
   },
-  site: "https:// http://boosniac.github.io", // change to your domain
+  site: "https://boosniac.github.io", // change to your domain
   integrations: [sitemap()]
 });
